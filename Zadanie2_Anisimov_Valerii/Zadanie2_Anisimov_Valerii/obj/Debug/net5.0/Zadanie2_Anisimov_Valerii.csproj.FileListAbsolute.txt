@@ -1,0 +1,16 @@
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.exe
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.deps.json
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.runtimeconfig.json
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.runtimeconfig.dev.json
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.dll
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\ref\Zadanie2_Anisimov_Valerii.dll
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\bin\Debug\net5.0\Zadanie2_Anisimov_Valerii.pdb
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.AssemblyInfoInputs.cache
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.AssemblyInfo.cs
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.csproj.CoreCompileInputs.cache
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.dll
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\ref\Zadanie2_Anisimov_Valerii.dll
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.pdb
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.genruntimeconfig.cache
+D:\Trainee\Zadanie2_Anisimov_Valerii\Zadanie2_Anisimov_Valerii\obj\Debug\net5.0\Zadanie2_Anisimov_Valerii.csproj.AssemblyReference.cache
